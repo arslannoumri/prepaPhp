@@ -11,7 +11,7 @@
             require("../modules/nav.php");
             require("../modules/header.php");
 
-           
+           var_dump($listeLivres);
         ?>
     </body>
 </html>
